@@ -1,0 +1,14 @@
+
+/// todo ///
+
+make capitalism for the shops
+make random floor tiles
+make movement remember the prevously stepped tile, so it doesnt overwrite boqs
+
+/// done ///
+
+
+XX make boq a resource
+
+
+
